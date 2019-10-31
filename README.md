@@ -19,4 +19,5 @@ Here are the classes in the dataset, as well as 10 random images from each:
 # Model Architecture
 
 MiniGoogLeNet which includes a simplified version of the Inception module from Szegedy et al.’s seminal [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) paper:
+
 ![image](keras_3_model_types_minigooglenet.png)
